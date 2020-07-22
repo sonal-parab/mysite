@@ -1,0 +1,32 @@
+h1{
+  font-family: "Sofia";
+  font-size: 30px;
+}
+	td.serif{
+  font-family: ""Times New Roman", Times, serif;";
+  font-size: 30px;
+}
+a.links{
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+	p.normal {
+  font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	text-align: justify;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: green;
+}
+
